@@ -1,4 +1,5 @@
 Consulta de Score com IA (Python)
+Jupyter notebook
 
 Descrição:
 
